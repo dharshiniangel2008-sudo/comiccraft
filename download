@@ -1,0 +1,14 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+*.log
+.idea/
+.vscode/
+static/panels/*.png
+static/exports/*.pdf
+!static/panels/.gitkeep
+!static/exports/.gitkeep
